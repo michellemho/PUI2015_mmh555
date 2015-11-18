@@ -1,0 +1,102 @@
+Place,Bib,Name,Time,State,Country,Citizenship
+1,101,Mary Keitany,2:24:25,,Kenya,KEN
+2,109,Aselefech Mergia,2:25:32,-,Ethiopia,ETH
+3,105,Tigist Tufa,2:25:50,,Ethiopia,ETH
+4,103,Sara Moreira,2:25:53,,Portugal,POR
+5,111,Christelle Daunay,2:26:57,,France,FRA
+6,108,Priscah Jeptoo,2:27:03,,Kenya,KEN
+7,115,Laura Thweatt,2:28:23,CO,United States,USA
+8,104,Jelena Prokopcuka,2:28:46,,Latvia,LAT
+9,112,Anna Incerti,2:33:13,,Italy,ITA
+10,102,Caroline Rotich,2:33:19,NM,United States,KEN
+11,1102,Rocio Cantara Rojas,2:37:05,"Lima, Peru",Peru,PER
+12,120,Cassie Fien,2:38:53,,Australia,AUS
+13,124,Teresa McWalters,2:40:37,CA,United States,USA
+14,117,Marisol Romero,2:41:50,,Mexico,MEX
+15,121,Beverly Ramos,2:41:56,PR,United States,PRI
+16,235,Emma Nordling,2:43:28,Stockholm,Sweden,SWE
+17,116,Changqin Ding,2:44:02,Guizhou,China,CHN
+18,119,Caroline Wostmann,2:44:26,Gauteng,South Africa,RSA
+19,674,Roberta Groner,2:45:30,NJ,United States,USA
+20,140,Hilary Corno,2:45:53,CA,United States,USA
+21,220,Liza Howard,2:49:05,NY,United States,CAN
+22,228,Mikaela Larsson,2:49:09,Sweden,Sweden,SWE
+23,122,Clare Geraghty,2:49:19,QLD,Australia,AUS
+24,1266,Maria Yolanda Gutierrez,2:52:59,A Coruna,Spain,ESP
+25,223,Megan Jaswell,2:53:21,RI,United States,USA
+26,5211,Ildiko Gaal,2:54:24,MA,United States,USA
+27,222,Veronica Jackson,2:54:31,NY,United States,USA
+28,263,Johanna Nilsson,2:54:53,Sweden,Sweden,SWE
+29,3041,Gwenaelle Begue,2:54:56,IN,United States,FRA
+30,2370,Ji Li,2:55:27,GuangDong,China,CHN
+31,205,Janet Collar,2:56:13,WA,United States,USA
+32,224,Ana Johnson,2:56:15,NY,United States,USA
+33,2274,Cibelle Hernandez,2:56:19,MEXICO,Mexico,MEX
+34,2157,Stefanie Doll,2:56:25,GER,Germany,GER
+35,241,Tammy Richards,2:56:29,VT,United States,USA
+36,232,Margaret McMahon,2:56:35,NY,United States,IRL
+37,3550,Una Plant,2:56:54,cork,Ireland,IRL
+38,5065,Danielle Bryan,2:57:39,Victoria,Australia,AUS
+39,5503,Lillie Romeiser,2:57:46,IL,United States,USA
+40,1815,Anna Alberti,2:57:48,TS,Italy,ITA
+41,243,Amy Shohet,2:57:50,CA,United States,USA
+42,3718,Danielle Wagner,2:57:55,Panama,Panama,PAN
+43,211,Dianne Fisher,2:58:06,OH,United States,USA
+44,201,Mallory Anderson,2:58:13,NY,United States,USA
+45,3662,Dawn Sudol,2:58:23,NY,United States,USA
+46,248,Qian Zhu,2:58:26,CA,United States,CHN
+47,4182,Cecilia Davis-Hayes,2:58:35,NY,United States,USA
+48,149,Paula Keating,2:59:03,NB,Canada,CAN
+49,203,Jessica Chichester,2:59:19,NY,United States,USA
+50,1063,Mirella Bergamo,2:59:19,tn,Italy,ITA
+51,202,Stephanie Andre,2:59:23,OK,United States,USA
+52,1006,Brooke Adams,2:59:24,NY,United States,USA
+53,6572,Ana Veiga,2:59:24,RS,Brazil,BRA
+54,214,Jessica Gonzales,2:59:34,NY,United States,USA
+55,19993,Liz Wilson,2:59:59,WA,United States,USA
+56,4778,Celine Monnard,3:00:08,Vaud,Switzerland,SUI
+57,247,Paige Yellen,3:00:26,NY,United States,USA
+58,6008,Oksana Akhmedova,3:00:30,Russia,Russia,RUS
+59,231,Lauren Manuel,3:01:05,IN,United States,USA
+60,767,Maria Elena Quintana,3:01:10,NY,United States,USA
+61,206,Anne Cottrell,3:01:20,CA,United States,USA
+62,240,Chandler Rainey,3:01:24,NY,United States,USA
+63,2089,Jessica Calvo,3:01:28,,France,FRA
+64,210,Alysia Dusseau,3:01:30,NY,United States,USA
+65,242,Leigh Sharek,3:01:55,NY,United States,USA
+66,832,Tara Wilson,3:02:23,NY,United States,USA
+67,4067,Lyne Bessette,3:02:36,MA,United States,CAN
+68,212,Samantha Gardner,3:02:47,AL,United States,USA
+69,297,Sworupa Khadka,3:03:07,NY,United States,NEP
+70,5431,Shay Phillips,3:03:28,TX,United States,USA
+71,6032,Jillian Arnold,3:03:36,GA,United States,USA
+72,3503,Keri Olson,3:03:38,CA,United States,USA
+73,298,Kristen Olsen,3:03:39,UT,United States,USA
+74,2582,Molly Rouillard,3:03:51,MA,United States,USA
+75,3303,Kimberly Hicks,3:04:20,CA,United States,USA
+76,5658,Locky Trachsel,3:04:22,NY,United States,USA
+77,3607,Nansy Sanchez,3:04:34,DISTRITO FEDERAL,Mexico,MEX
+78,3034,Jessica Bashaw,3:04:35,NY,United States,USA
+79,6743,Hilary Young,3:04:41,AK,United States,USA
+80,208,Francesca Delucia,3:04:46,NY,United States,USA
+81,4408,Karen Jablonski,3:04:58,PA,United States,USA
+82,8570,Federica Moroni,3:05:17,RN,Italy,ITA
+83,207,Karen De Saint Phalle,3:05:19,NY,United States,USA
+84,7202,Anna Grummon,3:05:28,NY,United States,USA
+85,5224,Sabine Gentieu,3:05:58,Switzerland,Switzerland,FRA
+86,3424,Karima Makrof,3:06:10,-,Sweden,SWE
+87,6239,Jennifer Elvin,3:06:20,Aberdeenshire,United Kingdom,IRL
+88,4662,Catriona Probert,3:06:21,,United Kingdom,GBR
+89,3663,Guro Sundal,3:06:21,Norway,Norway,NOR
+90,5193,Allison Gayle,3:06:27,DE,United States,USA
+91,3471,Columba Montes,3:06:32,IL,United States,USA
+92,7505,Natsuki Ikeda,3:06:49,NY,United States,USA
+93,6450,Laura Link,3:07:06,IL,United States,USA
+94,2593,Kristin Saad,3:07:07,IL,United States,USA
+95,209,Rhea Deroian,3:07:26,CA,United States,USA
+96,2583,Philippe Roux,3:07:29,FR,France,FRA
+97,7198,Jane Grace,3:07:51,Jersey,United Kingdom,GBR
+98,1095,Ana Cadreche,3:07:54,FL,United States,USA
+99,6261,Barbara Finnegan,3:07:59,NY,United States,USA
+100,215,Nicole Green,3:08:01,NY,United States,USA
+,,,,,,

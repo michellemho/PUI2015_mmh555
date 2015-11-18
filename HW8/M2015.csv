@@ -1,0 +1,101 @@
+Place,Bib,Name,Time,State,Country,Citizenship
+1,5,Stanley Biwott,2:10:34,,Kenya,KEN
+2,6,Geoffery Kamworor,2:10:48,-,Kenya,KEN
+3,2,Lelisa Desisa,2:12:10,,Ethiopia,ETH
+4,1,Wilson Kipsang,2:12:45,,Kenya,KEN
+5,7,Yemane Tsegay,2:13:24,,Ethiopia,ETH
+6,11,Yuki Kawauchi,2:13:29,,Japan,JPN
+7,4,Meb Keflezighi,2:13:32,CA,United States,USA
+8,16,Craig Leon,2:15:16,OR,United States,USA
+9,259,Birhanu Dare Kemal,2:15:40,NY,United States,ETH
+10,12,Kevin Chelimo,2:15:49,OR,United States,KEN
+11,14,Andrea Lalli,2:17:12,-,Italy,ITA
+12,9,Juan Luis Barrios,2:18:06,,Mexico,MEX
+13,261,Diriba Degefa Yigezu,2:19:21,NY,United States,ETH
+14,249,Negash Abebe Duki,2:20:30,NY,United States,ETH
+15,258,Timothy Chichester,2:21:25,NY,United States,USA
+16,10,Nicholas Arciniaga,2:22:07,AZ,United States,USA
+17,1772,Khalid En Guady,2:23:13,BS,Morocco,MAR
+18,17,Carmine Buccilli,2:23:48,,Italy,ITA
+19,269,Abu Kebede Diriba,2:24:30,NY,United States,ETH
+20,270,Kojo Kyereme,2:26:17,SURREY,United Kingdom,GBR
+21,1120,Andre Pollmaecher,2:26:35,NRW,Germany,USA
+22,1126,Alessandro Claut,2:28:22,Italy,Italy,ITA
+23,23,Matt Flaherty,2:29:01,IN,United States,USA
+24,46,Thierry Guibault,2:29:05,Picardie,France,FRA
+25,266,Grzegorz Gronostaj,2:29:09,Dolny Slask,Poland,POL
+26,284,Paul Piper,2:29:24,Middlesex,United Kingdom,GBR
+27,21,Will Nation,2:30:18,TX,United States,USA
+28,1689,Jordan Tropf,2:30:23,MD,United States,USA
+29,275,Tom McGrath,2:30:54,AB,Canada,CAN
+30,283,Oz Pearlman,2:31:04,NY,United States,USA
+31,1303,Kevin Hoyt,2:31:12,CT,United States,USA
+32,1052,Peter Bartlett,2:31:15,NY,United States,USA
+33,1599,Kepa Ruiz,2:31:56,Bizkaia,Spain,ESP
+34,1512,Henrik Orre,2:32:35,Lund,Sweden,SWE
+35,1609,Nicolas Santos,2:32:38,Cundinamarca,Colombia,USA
+36,1668,Sean Swift,2:33:03,NJ,United States,USA
+37,282,Hugh Parker,2:33:13,NY,United States,USA
+38,281,Brendon O'leary,2:33:13,MA,United States,USA
+39,278,Trevor Middleton,2:33:36,NY,United States,USA
+40,276,Cyril Measson,2:33:47,,Switzerland,FRA
+41,1736,Peiquan You,2:34:15,Beijing,China,CHN
+42,257,Greg Cass,2:34:17,NY,United States,USA
+43,1639,Niklas Sjoblom,2:34:27,Zürich,Switzerland,SWE
+44,260,Jeremy Deere,2:34:32,AB,Canada,CAN
+45,1210,Martin Fiz Martin,2:34:33,spain,Spain,ESP
+46,256,Peter Bromka,2:34:44,OR,United States,USA
+47,12757,Daniel Atienza,2:35:13,Vaud,Switzerland,SUI
+48,279,Habib Mosbah,2:35:19,,France,ALG
+49,1357,Jon Korhonen,2:35:40,MA,United States,USA
+50,1128,Astrel Clovis,2:35:46,Ouest,Haiti,USA
+51,1254,Simon Gonzalez Rio,2:35:52,Lugo,Spain,ESP
+52,20,Christopher Bendtsen,2:36:22,NY,United States,USA
+53,19,Stefano Scaini,2:36:32,,Italy,ITA
+54,1489,Mark Newton,2:36:37,Essex,United Kingdom,GBR
+55,292,Claes Theander,2:36:39,sweden,Sweden,SWE
+56,49,Hector Rivera,2:36:41,NJ,United States,USA
+57,271,Matthew Lacey,2:36:51,NY,United States,USA
+58,1771,Jordan Donnelly,2:36:54,MA,United States,GBR
+59,268,Remigio Huaman Quispe,2:37:04,Lima,Peru,PER
+60,575,David Roeske,2:37:25,NY,United States,USA
+61,288,Conor Shelley,2:37:31,NY,United States,USA
+62,1853,Kristen Aaby,2:37:35,Norway,Norway,NOR
+63,289,Pierre Slusarek,2:37:48,QC,Canada,CAN
+64,1700,Robert Verhees,2:37:53,CA,United States,USA
+65,1189,Chaiwat Engtrakul,2:37:59,CO,United States,USA
+66,280,Vincent Nothum,2:38:07,,Luxembourg,LUX
+67,604,Stephen Tranter,2:38:10,NY,United States,GBR
+68,1125,Brad Chvatal,2:38:18,OR,United States,USA
+69,1149,Tony Daguanno,2:38:39,OR,United States,USA
+70,1514,Mathias Osmark,2:38:46,N/A,Sweden,SWE
+71,1665,Andrew Strasburg,2:38:46,NY,United States,USA
+72,1448,Edilberto Mendez,2:38:49,NY,United States,USA
+73,1275,Erwin Harmes,2:38:50,Zeeland,Netherlands,NED
+74,1644,Kenneth Smeby,2:38:54,,Norway,NOR
+75,1334,Joshua Kaplan,2:38:57,OR,United States,USA
+76,1707,Xaviour Walker,2:38:59,MA,United States,NZL
+77,1472,James Mountford,2:39:00,East Sussex,United Kingdom,GBR
+78,1452,Laurent Michellier,2:39:04,,France,FRA
+79,577,Chris Dawes,2:39:06,NY,United States,USA
+80,1783,Victor Larisch,2:39:07,,Germany,GER
+81,1616,Chris Scott,2:39:14,MN,United States,USA
+82,1034,Joshua Arthur,2:39:31,Midlothian,United Kingdom,GBR
+83,2458,Jade Muller,2:39:33,Eastern Cape,South Africa,RSA
+84,1444,Federico Meini,2:39:39,Italy/Livorno,Italy,ITA
+85,2308,Benedik Jean-Philippe,2:39:47,Lorraine,France,USA
+86,1582,Eric Robertson,2:39:53,PA,United States,USA
+87,2234,Daniel Goding,2:39:55,CO,United States,USA
+88,754,Julio Sauce,2:40:07,NY,United States,ECU
+89,1653,Michael Stadolnik,2:40:09,CT,United States,USA
+90,790,Carlo Agostinetto,2:40:24,CT,United States,ITA
+91,1269,Joshua Haase,2:40:44,WI,United States,USA
+92,1355,Finn Kollstad,2:40:51,,Norway,NOR
+93,2517,Danilo Peri,2:41:02,Brescia,Italy,ITA
+94,598,Christopher Wong,2:41:04,NY,United States,USA
+95,1165,Guomin Deng,2:41:09,Beijing,China,USA
+96,30,Arjun Pradhan,2:41:09,MAharashtra,India,IND
+97,1296,Dustin Hicks,2:41:24,FL,United States,USA
+98,1297,Eddie Higgins,2:41:34,CA,United States,USA
+99,1217,David Fort,2:41:34,WA,United States,USA
+100,1555,Tomasz Polanski,2:41:35,,Poland,POL
